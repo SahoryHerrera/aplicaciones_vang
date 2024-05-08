@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "port": 27017,
+    "username": "sahory",
+    "password": "1234",
+    "database": "pruebavanguardia"
+  }
+  
