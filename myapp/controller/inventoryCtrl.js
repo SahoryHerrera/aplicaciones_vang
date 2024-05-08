@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { MongoClient } = require('mongodb');
 
 const uri = 'mongodb+srv://sahorych:1234@pruebavanguardia.ltnregh.mongodb.net/';
